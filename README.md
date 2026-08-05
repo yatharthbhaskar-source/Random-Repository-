@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0238-product-of-array-except-self) |
@@ -23,5 +24,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
