@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,4 +15,8 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0219-contains-duplicate-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
