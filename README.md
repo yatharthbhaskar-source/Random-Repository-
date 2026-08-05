@@ -7,6 +7,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0035-search-insert-position) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
@@ -29,6 +30,7 @@
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -38,4 +40,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
