@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0035-search-insert-position) |
+| [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -93,4 +95,12 @@
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
