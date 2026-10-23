@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0219-contains-duplicate-ii](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0035-search-insert-position) |
+| [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
 ## Stack
 |  |
@@ -62,6 +64,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
 | ------- |
@@ -115,4 +119,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0258-add-digits) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
