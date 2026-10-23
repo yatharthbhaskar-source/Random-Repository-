@@ -103,4 +103,16 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
