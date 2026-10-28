@@ -102,6 +102,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -110,6 +111,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
