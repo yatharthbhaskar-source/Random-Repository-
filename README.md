@@ -14,6 +14,7 @@
 | [0238-product-of-array-except-self](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
+| [0403-frog-jump](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0403-frog-jump) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0300-longest-increasing-subsequence) |
+| [0403-frog-jump](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0403-frog-jump) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
