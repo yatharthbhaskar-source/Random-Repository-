@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0039-combination-sum) |
@@ -30,6 +31,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0287-find-the-duplicate-number) |
@@ -135,4 +137,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0070-climbing-stairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yatharthbhaskar-source/Random-Repository-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
